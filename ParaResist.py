@@ -16,4 +16,4 @@ total = 0.0
 for n in numbers:
     total += 1.0 / n
 
-print("Parallel Resistance is ", 1.0 / total)
+print("PR is ", 1.0 / total)
